@@ -10,9 +10,11 @@
 
 - [ ] vue-cli的环境变量配置
 
-- [ ] vue-router的自动生成路由对象
+- [x] vue-router的自动生成路由对象
 
 - [ ] 常用自定义指令封装
+
+- [ ] 伪进度条nprogress
 
 
 
